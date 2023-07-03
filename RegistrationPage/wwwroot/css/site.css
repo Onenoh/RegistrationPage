@@ -20,6 +20,11 @@ body{
     min-height: 100vh;
     background: #0c0116;
 }
+h1 {
+    color: #d7a3d7;
+    text-align: center;
+    padding: 20px;
+}
 
 .form {
     position: relative;
